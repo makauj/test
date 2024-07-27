@@ -1,6 +1,6 @@
 ### Introduction
 
-This code defines a custom function called `_printf`, which mimics the behavior of the standard `printf` function used in the C programming language to print formatted text. Instead of relying on built-in formatting functions, this implementation manually converts numbers and other data types to strings and prints them.
+This code defines a custom function called `_printf`, which mimics the behaviour of the standard `printf` function used in the C programming language to print formatted text. Instead of relying on built-in formatting functions, this implementation manually converts numbers and other data types to strings and prints them.
 
 ### Step-by-Step Explanation
 
